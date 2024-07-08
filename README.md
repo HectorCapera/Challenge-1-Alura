@@ -1,5 +1,6 @@
 Primer desafío de Alura en asociación a Oracle 
 El desafío consistía en generar un programa que encripte el texto ingresado por el usuario y renderice en la pantalla el texto encriptado. Además, con dos funcionalidades importantes, la de desencriptar y la opción de copiar en el Clipboard.
+Los documentos HTML y JS se encuentran en SRC
 
 El desafío fue realizado en TailWind CSS para mayor comodidad en la responsividad.
 JavaScript en dos documentos no incrustados como script directamente en el HTML
